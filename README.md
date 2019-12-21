@@ -33,6 +33,7 @@ Used MNIST database with almost 70,000 images to classify images according to th
 ![Screenshot](Data.png)
 
 3. The Fashion MNIST data set contains 70,000 grayscale images in 10 categories. The images show individual articles of clothing at low resolution (28 by 28 pixels), as seen here:
+
 ![Screenshot](Dataset.png)
 
 4. The reshape commands changes the dimesnsipns of the data set.
@@ -48,8 +49,11 @@ Used MNIST database with almost 70,000 images to classify images according to th
 ![Screenshot](Accuracy.png)
 
 10. The classification comes out to be 9, which matches with ankle boot,
+
 ![Screenshot](Classification.png)
+
 ![Screenshot](Match.png)
+
 10. And the output is the correct classification of our data
 
 ![Screenshot](Output.png)
