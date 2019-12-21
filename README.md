@@ -1,7 +1,7 @@
 # ImageClassification
 Used MNIST database with almost 70,000 images to classify images according to the product label. Accuracy Achieved - 89.67%
 
-## Steps tp install GPU on Anaconda with Keras and Tensorflow
+## Steps to install GPU on Anaconda with Keras and Tensorflow
 1. Open Anaconda Console
 2. Type - "conda create --name PythonGPU"
 3. After installtaion, type - "activate PythonGPU"
